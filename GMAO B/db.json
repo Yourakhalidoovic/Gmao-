@@ -1,0 +1,40 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "nom": "John Doe",
+      "adresse": "123 Main St",
+      "ville": "New York",
+      "codePostal": "10001",
+      "telephone": "555-1234",
+      "modeleTelephone": "iPhone 13",
+      "modelePC": "Dell XPS",
+      "modeleImprimante": "HP LaserJet",
+      "typeMaintenance": "Standard"
+    },
+    {
+      "id": 2,
+      "nom": "Jane Doe",
+      "adresse": "456 Elm St",
+      "ville": "Los Angeles",
+      "codePostal": "90001",
+      "telephone": "555-5678",
+      "modeleTelephone": "Samsung Galaxy",
+      "modelePC": "Lenovo ThinkPad",
+      "modeleImprimante": "Canon Pixma",
+      "typeMaintenance": "Premium"
+    },
+    {
+      "id": 3,
+      "nom": "Bob Smith",
+      "adresse": "789 Oak St",
+      "ville": "Chicago",
+      "codePostal": "60601",
+      "telephone": "555-9012",
+      "modeleTelephone": "Google Pixel",
+      "modelePC": "Apple MacBook",
+      "modeleImprimante": "Epson WorkForce",
+      "typeMaintenance": "Basic"
+    }
+  ]
+}
